@@ -1,0 +1,1 @@
+Project which is used to play with Git features - to learn GIT.
